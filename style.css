@@ -1,0 +1,61 @@
+pre.with-hljs{padding:0}
+pre.with-hljs code{margin:0;border:0;overflow:visible}
+code.maxheight,pre.maxheight{max-height:512px}input[type="checkbox"]{margin:0;padding:0}
+#wrapper{max-width:1000px;min-width:400px;margin:10px auto}
+.path{padding:4px 7px;}
+.right{text-align:right}.center{text-align:center}.float-right{float:right}
+.message{padding:4px 7px;border:1px solid #ddd;background-color:#fff}
+.message.ok{border-color:green;color:green}
+.message.error{border-color:red;color:red}
+.message.alert{border-color:orange;color:orange}
+
+.preview-img{max-width:100%;background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAKklEQVR42mL5//8/Azbw+PFjrOJMDCSCUQ3EABZc4S0rKzsaSvTTABBgAMyfCMsY4B9iAAAAAElFTkSuQmCC") repeat 0 0}
+.preview-video{position:relative;max-width:100%;height:0;padding-bottom:62.5%;margin-bottom:10px}.preview-video video{position:absolute;width:100%;height:100%;left:0;top:0;background:#000}
+                
+.compact-table{border:0;width:auto}.compact-table td,.compact-table th{width:100px;border:0;text-align:center}.compact-table tr:hover td{background-color:#fff}
+.filename{max-width:420px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.break-word{word-wrap:break-word}
+.table {
+     width: 100%;
+    max-width: 168%;
+    margin-bottom: 20px;
+    margin-left: 0px;
+
+}
+nav {
+    background-color: #dd5347;
+}
+.btn-floating {
+width: 36px;
+margin-left: -2px;
+}
+
+.col_half { width: 49%; }
+.col_third { width: 32%; }
+.col_fourth { width: 23.5%; }
+.col_fifth { width: 18.4%; }
+.col_sixth { width: 15%; }
+.col_three_fourth { width: 74.5%;}
+.col_twothird{ width: 66%;}
+.col_half,
+.col_third,
+.col_twothird,
+.col_fourth,
+.col_three_fourth,
+.col_fifth{
+    position: relative;
+    display:inline;
+    display: inline-block;
+    float: left;
+    margin-right: 2%;
+    margin-bottom: 20px;
+}
+.end { margin-right: 0 !important; }
+/* Column Grids End */
+
+.wrapper { width: 980px; margin: 30px auto; position: relative;}
+.counter { background-color: #ffffff; padding: 20px 0; border-radius: 5px;}
+.count-title { font-size: 40px; font-weight: normal;  margin-top: 10px; margin-bottom: 0; text-align: center; }
+.count-text { font-size: 13px; font-weight: normal;  margin-top: 10px; margin-bottom: 0; text-align: center; }
+.fa-2x { 
+    margin: 0 auto; float: none; display: table; color: #4ad1e5; }
